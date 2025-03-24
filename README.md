@@ -6,7 +6,7 @@ This paper was accepted at WACV 2025 Workshop - 4th Workshop on Image/Video/Audi
 
 <br>
 <div align="center">
-  <img width="100%" alt="HipyrNet architecture" src="media/arch.png">
+  <img width="85%" alt="HipyrNet architecture" src="media/arch.png">
 </div>
 <br>
 
@@ -15,7 +15,7 @@ Recent advancements in image translation for enhancing mixed-exposure images hav
 
 ## Visualisations
 <div align="center">
-  <img width="90%" alt="Inp/Op/Label Pairs" src="media/comparisons.png">
+  <img width="85%" alt="Inp/Op/Label Pairs" src="media/comparisons.png">
 </div>
 <br>
 

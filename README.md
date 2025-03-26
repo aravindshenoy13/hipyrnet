@@ -2,7 +2,7 @@
 
 Pytorch code for our [paper](https://openaccess.thecvf.com/content/WACV2025W/ImageQuality/papers/Rathore_HipyrNet_Hypernet-Guided_Feature_Pyramid_network_for_mixed-exposure_correction_WACVW_2025_paper.pdf)
 
-This paper was accepted at WACV 2025 Workshop - 4th Workshop on Image/Video/Audio Quality in Computer Vision and Generative AI
+This paper was accepted at WACV 2025 Workshop - 4th Workshop on Image/Video/Audio Quality in Computer Vision and Generative AI.
 
 <br>
 <div align="center">
@@ -22,7 +22,7 @@ Recent advancements in image translation for enhancing mixed-exposure images hav
 ## Get Started
 ```
 $ git clone https://github.com/aravindshenoy13/hipyrnet.git
-$ cd HipyrNet
+$ cd hipyrnet
 ```
 
 ## Train & Eval
@@ -32,7 +32,7 @@ $ python -m src.train
 
 ## Citation
 
-If you find this method and/or code useful, please consider citing
+If you find this method and/or code useful, please consider citing -
 
 @misc{rathore2025hipyrnethypernetguidedfeaturepyramid,
       title={HipyrNet: Hypernet-Guided Feature Pyramid network for mixed-exposure correction}, 
